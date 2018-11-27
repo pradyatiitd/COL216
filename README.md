@@ -1,4 +1,4 @@
-# COL216
+# Computer-Architecture (COL216)
 Computer Architecture (ARM Assembly+VHDL) - Prof. Anshul Kumar
 
 ## Sudoku
